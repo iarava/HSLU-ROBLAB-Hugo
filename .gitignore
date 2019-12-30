@@ -40,3 +40,7 @@ tmtagsHistory
 *.sublime-workspace
 .bundle
 tests/images/
+
+# sensitive Data #
+##################
+ressource/*
