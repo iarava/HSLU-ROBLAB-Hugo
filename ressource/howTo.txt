@@ -1,0 +1,8 @@
+https://cloud.google.com/vision/docs/face-tutorial
+
+package manager install:
+- google-cloud-vision
+- pillow
+
+in PowerShell Umgebungsvariable GOOGLE_APPLICATION_CREDENTIALS setzen:
+$env:GOOGLE_APPLICATION_CREDENTIALS="Pfad zu Ressourcen-Ordner\RobLoab-56b52920644e.json"
